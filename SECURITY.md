@@ -2,11 +2,11 @@
 
 ## Supported Versions
 
-Version 1.0.x is supported for all devices and public domains with the corrected policy. Used right now for the start of the Application..
+Version 1.0.x is being supported == into the works
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
+| 1.1.X   | :white_check_mark: |
 
 
 ## Reporting a Vulnerability
