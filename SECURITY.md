@@ -3,7 +3,11 @@
 ## Supported Versions
 
 Version 1.0.X == offical developement
+
+
 Version 1.1.X == implementation of Software Requirements
+
+
 Version 1.2.X == Revisions (Specifications/Charts/Use-Case/Misc..)
 
 | Version | Supported          |               NOTES             |
