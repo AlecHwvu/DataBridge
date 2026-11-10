@@ -1,0 +1,49 @@
+DataBridge Engineering Codes & Standards                                         |
+Reason: To establish compliance with HIPPA & NIST Web Development                |
+Date Researched 11/1/2026 --> 11/9/2026                                          |
+__________________________________________________________________________________
+
+
+HIPAA Security Rule 
+45 CFR Part 164, Subpart C 
+Establishes security requirements for protecting electronic patient information. 
+---------------------------------------------------------------------------------------------------------------------
+Administrative Safeguards 
+45 CFR §164.308 
+Guides risk management, user responsibilities, and workforce access procedures. 
+---------------------------------------------------------------------------------------------------------------------
+Physical Safeguards 
+45 CFR §164.310 
+Guides protection of tablets, workstations, devices, and physical access to the system. 
+---------------------------------------------------------------------------------------------------------------------
+Technical Safeguards 
+45 CFR §164.312 
+Supports authentication, access control, audit logging, data integrity, and secure transmission. 
+---------------------------------------------------------------------------------------------------------------------
+Security Documentation 
+45 CFR §164.316 
+Establishes requirements for maintaining security policies, procedures, and documentation. 
+---------------------------------------------------------------------------------------------------------------------
+NIST Digital Identity Guidelines 
+NIST SP 800-63B-4 
+Provides guidance for password security, authentication, and multifactor authentication. 
+--------------------------------------------------------------------------------------------------------------------
+NIST Transport Layer Security Guidelines 
+NIST SP 800-52 Rev. 2 
+Provides guidance for configuring secure TLS communications between system components. 
+---------------------------------------------------------------------------------------------------------------------
+OWASP Application Security Verification Standard 
+OWASP ASVS 5.0 
+Provides security requirements for application development, authentication, authorization, and data protection. 
+---------------------------------------------------------------------------------------------------------------------
+OWASP Password Storage Guidelines 
+Password Storage Cheat Sheet 
+Recommends secure password hashing and protection of stored credentials. 
+---------------------------------------------------------------------------------------------------------------------
+Health Level Seven Messaging Standard 
+HL7 Version 2 (HL7v2) 
+Defines the healthcare messaging format used for communication 
+---------------------------------------------------------------------------------------------------------------------
+
+
+
